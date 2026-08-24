@@ -1,4 +1,5 @@
 {
-  "version": "1.0.2",
-  "notes": "Per-tab Custom Snap selection - pick individual browser tabs to save and close."
+  "version": "1.0.3",
+  "notes": "AI module foundations - Settings screen for AI provider setup.",
+  "ai_enabled": true
 }
