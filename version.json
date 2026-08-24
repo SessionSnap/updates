@@ -1,5 +1,5 @@
 {
-  "version": "9.9.9",
+  "version": "1.0.0",
   "releaseUrl": "https://github.com/SessionSnap/SessionSnap/releases/latest",
-  "notes": "Test version for update-banner verification."
+  "notes": "Initial release."
 }
