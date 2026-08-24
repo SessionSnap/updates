@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "notes": "WhatsApp Desktop/Web icon detection, update banner fix."
+  "version": "1.0.2",
+  "notes": "Per-tab Custom Snap selection - pick individual browser tabs to save and close."
 }
