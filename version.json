@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "notes": "AI command box (save by voice/text command) plus a YouTube tab-capture fix.",
+  "version": "1.0.5",
+  "notes": "AI command box round-trip confirmed working, Custom Phrase Shortcuts, UI polish.",
   "ai_enabled": true
 }
