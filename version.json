@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "notes": "AI module foundations - Settings screen for AI provider setup.",
+  "version": "1.0.4",
+  "notes": "AI command box (save by voice/text command) plus a YouTube tab-capture fix.",
   "ai_enabled": true
 }
