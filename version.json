@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "notes": "AI command box round-trip confirmed working, Custom Phrase Shortcuts, UI polish.",
+  "version": "1.0.6",
+  "notes": "AI Settings icon fixed - transparency, theme color, and sizing.",
   "ai_enabled": true
 }
